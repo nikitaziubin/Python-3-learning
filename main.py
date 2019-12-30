@@ -15,6 +15,7 @@ b = list(range(1, 10, 2))
 print(b) # [1, 3, 5, 7, 9]1
 for number in range(10):
     print(number)
+    
 print("АРЕФМЕТИЧИ")
 i = 1
 while i < 1000000000000000000:
