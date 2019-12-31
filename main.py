@@ -1,4 +1,5 @@
-for i in '1=2kokk':  
+# Python for loop over characters of string.
+for i in '1=2kokk000':  
    print (i + '1', '\n')
    
 # test python maps
